@@ -337,3 +337,11 @@ ASALocalRun/
 *.rar
 *.zip
 test
+*.cmake
+*.rule
+*x64/
+*x86/
+*.dll
+example/
+LICENSE
+*.in
