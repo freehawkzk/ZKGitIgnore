@@ -345,3 +345,7 @@ test
 example/
 LICENSE
 *.in
+*.d
+dlib/
+*.so
+*.exp
